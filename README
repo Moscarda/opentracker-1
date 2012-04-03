@@ -4,7 +4,7 @@ See http://erdgeist.org/arts/software/opentracker/
 
 Sources obtained from:
 
-    cvs -d :pserver:cvs@cvs.fefe.de:/cvs -z9 co libowfat
+    cvs -d:pserver:cvs@cvs.fefe.de:/cvs -z9 co libowfat
     cvs -d:pserver:anoncvs@cvs.erdgeist.org:/home/cvsroot co opentracker
 
 Prerequisites for building:
